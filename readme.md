@@ -1,3 +1,1 @@
-blablabla
-es una revision
-tercer ojo
+Aquí irán las instrucciones de instalación.
