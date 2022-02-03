@@ -1,1 +1,2 @@
-Aquí irán las instrucciones de instalación.
+Aquí no hay nada.
+
