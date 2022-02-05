@@ -1,17 +1,23 @@
-def normal(x):
-    return x
+def normal(i):
+    return i
 
 def cuadrado(x):
     return x * x
 
+def cubo(x):
+    return pow(x, 3)
+
 def sumaTodos(limitTo, f):
     resultado = 0
-    for x in range(limitTo+1):
-        resultado += f(x)
+    for i in range(limitTo+1):
+        resultado += f(i)
     
     return resultado
 
 print(sumaTodos(100, normal))
 print(sumaTodos(3, cuadrado))
+print(sumaTodos(3, cubo))
+
+
 
       
