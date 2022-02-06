@@ -1,6 +1,7 @@
 import turtle
 
 tortuguita = turtle.Turtle()
+otraTortuguita = turtle.Turtle()
 
 tortuguita.fd(50)
 
